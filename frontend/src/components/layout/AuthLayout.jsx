@@ -4,6 +4,8 @@ import { Outlet } from 'react-router-dom'
 import notionLogo from "../../assets/images/notion-logo.png";
 
 export const AuthLayout = () => {
+
+  
   return (
     <div>
       <Container component="main" maxWidth="xs">
